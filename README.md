@@ -27,13 +27,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ahmydyasser"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AhmydYasser" /></a></p><br><br>
 
-
-<div align="center">
-  <a href="https://github.com/ahmydyasser">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AhmydYasser&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmydYasser&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmydyasser&" alt="ahmydyasser" /></p>
-</div>
